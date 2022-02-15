@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abram-samuel
+- 👋 Hi, I’m Abram Samuel
 - 👀 I’m interested in Data Science & AI
 - 🌱 I’m currently learning Linear Algebra& Statistics & Algorithms & Data Structure and Data Analysis
 - 💞️ I’m looking to collaborate on Data Science and Data Analysis projects
