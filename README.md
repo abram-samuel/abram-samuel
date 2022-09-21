@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abram Samuel
-- 👀 I’m interested in Data Science & AI
-- 🌱 I’m currently learning Linear Algebra& Statistics & Algorithms & Data Structure & Algorithms and Data Analysis
-- 💞️ I’m looking to collaborate on Data Science and Data Analysis projects
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning Embedded Systems Online Diploma
+- 💞️ I’m looking to collaborate on Embedded Systems projects
 - 📫 How to reach me abramsamuel00@gmail.com
 - https://www.linkedin.com/in/abram-samuel-015a05202/
 <!---
